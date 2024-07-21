@@ -20,20 +20,9 @@
 },
     
 "scripts": {
-    "start": "node backEnd.js"
-},
     
-"name": "server",
     
-"version": "1.0.0",
+"start": "node backEnd.js"
     
-"main": "backEnd.js",
-    
-"devDependencies": {},
-    
-"author": "",
-    
-"license": "ISC",
-    
-"description": ""
+}
 }
