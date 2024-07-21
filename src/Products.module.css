@@ -1,0 +1,126 @@
+.productContainer{
+    display: grid;
+    row-gap:5%;
+    column-gap:1%;
+    margin-bottom: 30px;
+    background-color:#f8f9fa;
+    width: 90%;
+    justify-content: center;
+    grid-template-columns: repeat(3,300px);
+    grid-template-rows: repeat(4,400px);
+    margin-left: 2%;
+   /* margin-top:7%; */
+   overflow: scroll;
+   padding-bottom: 3rem;
+   object-fit: contain;
+}
+
+
+.productContent{
+    box-shadow: 5px 5px 5px 5px #ebeced;
+    width:100%;
+    overflow: scroll;
+     height:400px;
+    color: #272d33;
+    text-align: center;
+    border-radius: 4px;
+    padding:3rem;
+    margin: 20px;
+    background-color: rgb(221, 220, 220);
+    padding-bottom:8rem;
+    text-align: center;
+    object-fit: contain;
+    
+
+}
+
+.productContent p{
+    text-align: left;
+}
+
+
+
+.productImage{
+    height:10rem;
+    width: 14rem;
+    object-fit: contain;
+}
+
+.imgContainer{
+    width: 100%;
+    height:auto;
+    border-bottom: 1px solid red;
+    margin:0.5rem
+}
+
+
+
+
+
+
+
+
+.addBtn{
+    background-color: #cb1836;
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+    width:12.5rem;
+    padding:.5rem;
+}
+
+
+
+.textContainer{
+    font-size: 12px;
+}
+
+h5{
+    font-weight: bold
+    ;
+}
+
+
+.filterContainer{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    padding: 2rem;
+
+}
+
+.selectBtn{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top:3rem;
+}
+
+
+.Dropdown button {
+background-color:#272d33;
+color: white;
+border: #272d33;
+margin-bottom: .5rem;
+
+}
+.Dropdown button:hover{
+    background-color:#272d33;
+color: white;
+border: #272d33;
+}
+
+
+.buildBtn{
+    background-color: #cb1836;
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+    width:6.5rem;
+    padding:.5rem;
+    margin: .2rem;
+}
