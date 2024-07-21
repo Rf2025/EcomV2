@@ -12,37 +12,37 @@ function Slide() {
  
     <Carousel  className={SliderCSS.carousel}>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000">
-        <img src={PRL} text="First slide"  className={SliderCSS.brandImg}/>
+        <img src={PRL} text="First slide" alt="prl logo" className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>PRL Motorsports</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000"> 
-      <img src={Rv6} text="First slide" className={SliderCSS.brandImg}/>
+      <img src={Rv6} text="First slide"   alt="rv6 logo"className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>Rv6 Performance</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000">
-      <img src={Won} text="First slide" className={SliderCSS.brandImg}/>
+      <img src={Won} text="First slide"  alt="27won logo" className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>27WON Performance</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000">
-      <img src={ktuner} text="First slide" className={SliderCSS.brandImg}/>
+      <img src={ktuner} text="First slide"  alt="ktuner logo" className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>Ktuner</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000">
-      <img src={HybridRacing} text="First slide" className={SliderCSS.brandImg}/>
+      <img src={HybridRacing} text="First slide"  alt="hybrid logo" className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>Hybrid Racing</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className={SliderCSS.carouselItem} data-interval="4000">
-      <img src={Garret} text="First slide" className={SliderCSS.brandImg}/>
+      <img src={Garret} text="First slide"  alt="garret motion logo" className={SliderCSS.brandImg}/>
         <Carousel.Caption>
           <h3>Garret Motion</h3>
         </Carousel.Caption>

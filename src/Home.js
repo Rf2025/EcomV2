@@ -18,7 +18,7 @@ function Home(){
 <section className={HomeCss.aboutSection}>
    <div className={HomeCss.intro}>
    <h1>Our story</h1>
-   <img src={IntroLogo} className={HomeCss.aboutImg}></img>
+   <img src={IntroLogo} alt="everything-si logo" className={HomeCss.aboutImg}></img>
    <div className={HomeCss.textContainer}>
        <p className={HomeCss.introText}> Here at Everyhthing SI our mission is to empower Honda Civic Si enthusiasts to unlock the full potential of their 10th-generation civics, we provide a comprehensive platform for performance parts and tuning solutions. We are dedicated to guiding our customers on their journey to elevate their driving experience through expertly curated products and personalized support.</p>
        </div>

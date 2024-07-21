@@ -55,13 +55,13 @@ function Footer() {
      </div>
       <div className={footerCSS.socialIconsContainer}>
     
-        <a href="https://wwww.facebook.com" target='_blank'  className={footerCSS.links}>
+        <a href="https://wwww.facebook.com" target='_blank'  rel="noreferrer"  className={footerCSS.links}>
            <img className={footerCSS.socialIcon} src={facebook} alt="facebookLogo"/>
         </a>
-        <a href="https://www.instagram.com/" target='_blank' className={footerCSS.links}>
+        <a href="https://www.instagram.com/" target='_blank'  rel="noreferrer"  className={footerCSS.links}>
            <img className={footerCSS.socialIcon} src={instagram} alt="instagramLogo"/>
         </a>
-        <a href="https://x.com/?lang=en" target='_blank' className={footerCSS.links}>
+        <a href="https://x.com/?lang=en" target='_blank'  rel="noreferrer" className={footerCSS.links}>
             <img className={footerCSS.socialIcon} src={twitter} alt="twitterLogo"/>
         </a>
       </div>
