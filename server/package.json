@@ -17,9 +17,7 @@
 },
     
 "scripts": {
-    
-    
-"start": "node backEnd.js"
-    
-}
+    "start": "NODE_ENV=production node backEnd.js"
+  }
+  
 }
