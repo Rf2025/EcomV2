@@ -3,7 +3,7 @@
 // import {Link} from 'react-router-dom'
 import React from 'react';
 import navCSS from './Nav.module.css'
-import logo from '/Users/ricardofeliz/Desktop/ecomv2/src/silogo.jpeg'
+import logo from './silogo.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 

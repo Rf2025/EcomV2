@@ -1,5 +1,5 @@
 import contactCss from './Contact.module.css';
-import logoImages from '/Users/ricardofeliz/Desktop/ecomv2/src/silogo.jpeg';
+import logoImages from './silogo.jpeg';
 //import { useState } from 'react';
 
 function Contact() {

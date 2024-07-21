@@ -1,6 +1,6 @@
-import ktuner from "/Users/ricardofeliz/Desktop/ecomv2/src/ktune.avif"
-import cobra from '/Users/ricardofeliz/Desktop/ecomv2/src/Cobra.jpg'
-import tune from '/Users/ricardofeliz/Desktop/ecomv2/src/Stage1.webp'
+import ktuner from "./ktune.avif"
+import cobra from './Cobra.jpg'
+import tune from './Stage1.webp'
 import buildCss from './Builds.module.css'
 
 

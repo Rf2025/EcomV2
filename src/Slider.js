@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
-import PRL from '/Users/ricardofeliz/Desktop/ecomv2/src/prlLogo.jpeg';
-import ktuner from '/Users/ricardofeliz/Desktop/ecomv2/src/KtunerLogo.jpeg';
-import Rv6 from '/Users/ricardofeliz/Desktop/ecomv2/src/Rv6Logo.jpeg';
-import Won from '/Users/ricardofeliz/Desktop/ecomv2/src/Two7wonLogo.jpeg';
+import PRL from './prlLogo.jpeg';
+import ktuner from './KtunerLogo.jpeg';
+import Rv6 from './Rv6Logo.jpeg';
+import Won from './Two7wonLogo.jpeg';
 import SliderCSS from './Slider.module.css';
-import HybridRacing from '/Users/ricardofeliz/Desktop/ecomv2/src/hybridRacing.webp'
-import Garret from '/Users/ricardofeliz/Desktop/ecomv2/src/GarretMotion.jpg'
+import HybridRacing from './hybridRacing.webp'
+import Garret from './GarretMotion.jpg'
 function Slide() {
   return (
  

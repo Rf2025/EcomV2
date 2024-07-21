@@ -1,6 +1,6 @@
-import Video from '/Users/ricardofeliz/Desktop/ecomv2/src/siDriving.mp4'
+import Video from './siDriving.mp4'
 import HomeCss from './Home.module.css'
-import IntroLogo from '/Users/ricardofeliz/Desktop/ecomv2/src/silogo.jpeg'
+import IntroLogo from './silogo.jpeg'
 import Slide from './Slider.js'
 import Card from './Builds.js'
 

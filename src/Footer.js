@@ -2,10 +2,10 @@
 
 import React from 'react';
 import footerCSS from './Footer.module.css'; 
-import facebook from '/Users/ricardofeliz/Desktop/ecomv2/src/facebook.png'
-import instagram from '/Users/ricardofeliz/Desktop/ecomv2/src/instagram.png'
-import twitter from '/Users/ricardofeliz/Desktop/ecomv2/src/twitter.jpeg'
-import logo from '/Users/ricardofeliz/Desktop/ecomv2/src/silogo.jpeg'
+import facebook from './facebook.png'
+import instagram from './instagram.png'
+import twitter from './twitter.jpeg'
+import logo from './silogo.jpeg'
 function Footer() {
   return (
     <footer>
